@@ -1,2 +1,2 @@
 # opena-code-review-log
-openai代码审查日志仓库
+openai代码审查日志仓库初始化
